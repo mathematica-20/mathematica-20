@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mathematica-20
-- 👀 I’m interested in computer science especially data analysis, particle physics and cosmology. In addition, i am a fan of classical music as well.
-- 🌱 I’m currently learning the usage of github.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
